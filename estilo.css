@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+}
+/* comentario es css */
+h1 {
+    color:white;
+    font-family: Arial;
+    background-color: red;
+}
+
+h2 {
+    color:white;
+    font-family: Arial;
+
+}
+
+p {
+    color:white;
+    font-family: Arial;
+    background-color: blue;
+}
